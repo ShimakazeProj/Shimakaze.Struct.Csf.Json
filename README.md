@@ -1,0 +1,1 @@
+# Shimakaze.Struct.Csf.Json
