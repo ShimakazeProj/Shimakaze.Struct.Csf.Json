@@ -1,3 +1,4 @@
 # Shimakaze.Struct.Csf.Json
 
-这个库可以让Csf文件和Json文件相互转换
+Merge to [ShimakazeProj/Shimakaze.Struct.Csf](//github.com/ShimakazeProj/Shimakaze.Struct.Csf)  
+杩欎釜搴撳彲浠ヨCsf鏂囦欢鍜孞son鏂囦欢鐩镐簰杞崲
